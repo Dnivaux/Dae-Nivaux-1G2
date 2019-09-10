@@ -1,0 +1,2 @@
+python tapastonbacmec.py
+pause
