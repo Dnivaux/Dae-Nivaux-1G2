@@ -1,2 +1,2 @@
-python bidonville.py
+python TPn1.py
 pause
